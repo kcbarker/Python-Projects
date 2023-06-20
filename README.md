@@ -1,6 +1,6 @@
 # Python-Projects
 
-1.API data pull 
+1. API data pull 
 
 Pulling national carbon intensity data for the most recent half hour period in the day. Automating the data pull so that it pulls every half an hour (10 times) and then appends the new data into the data list. 
 
